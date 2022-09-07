@@ -13,4 +13,11 @@ vue --version
 Criar um projeto com Vue 
 vue create vuecad
 
-parei em 11:00
+Rodar o servidor 
+npm run serve 
+
+Adicionar as Routes
+vue add router 
+
+
+parei em 14:30
