@@ -7,7 +7,7 @@ Adiciona todas as alterações
 git add --all
 
 Cria um commit com uma mensagem 
-git commit -vue1"
+git commit -m "vue1"
 
 git push -u origin master
 git push --force origin main
